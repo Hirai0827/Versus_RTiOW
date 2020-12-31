@@ -33,5 +33,8 @@ inline double clamp(double x, double min, double max) {
     if (x > max) return max;
     return x;
 }
-
+inline int random_int(int min, int max) {
+    // Returns a random integer in [min,max].
+    return static_cast<int>(random_double(min, max+1));
+}
 #endif //RAYTRACING_MATH_UTILS_H

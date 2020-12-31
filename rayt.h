@@ -28,9 +28,9 @@ namespace rayt {
         void* pixels() const {return m_pixels.get();}
         void write(int x,int y,float r,float g,float b){
             int index = m_width*y + x;
-            m_pixels[index].r = static_cast<unsigned char>(r*255.99f);
-            m_pixels[index].g = static_cast<unsigned char>(g*255.99f);
-            m_pixels[index].b = static_cast<unsigned char>(b*255.99f);
+            m_pixels[index].r = static_cast<unsigned char>(min(r*255.99f,255.0f));
+            m_pixels[index].g = static_cast<unsigned char>(min(g*255.99f,255.0f));
+            m_pixels[index].b = static_cast<unsigned char>(min(b*255.99f,255.0f));
         }
 
     private:

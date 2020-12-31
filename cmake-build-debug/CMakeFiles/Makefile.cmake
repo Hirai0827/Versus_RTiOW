@@ -42,10 +42,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.17.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.17.3/CMakeRCCompiler.cmake"
   "CMakeFiles/3.17.3/CMakeSystem.cmake"
-  "CMakeFiles/FindOpenMP/OpenMPCheckVersion.c"
-  "CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp"
-  "CMakeFiles/FindOpenMP/OpenMPTryFlag.c"
-  "CMakeFiles/FindOpenMP/OpenMPTryFlag.cpp"
   )
 
 # The corresponding makefile is:

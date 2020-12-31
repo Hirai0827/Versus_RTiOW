@@ -6,6 +6,20 @@
 
 #IncludeRegexTransform: 
 
+E:/RayTracing/aabb.h
+vec3.h
+E:/RayTracing/vec3.h
+
+E:/RayTracing/aarect.h
+
+E:/RayTracing/box.h
+aarect.h
+E:/RayTracing/aarect.h
+hittable.h
+E:/RayTracing/hittable.h
+hittable_list.h
+E:/RayTracing/hittable_list.h
+
 E:/RayTracing/camera.h
 vec3.h
 E:/RayTracing/vec3.h
@@ -15,6 +29,8 @@ E:/RayTracing/ray.h
 E:/RayTracing/hittable.h
 ray.h
 E:/RayTracing/ray.h
+aabb.h
+E:/RayTracing/aabb.h
 
 E:/RayTracing/hittable_list.h
 hittable.h
@@ -27,6 +43,8 @@ vector
 E:/RayTracing/material.h
 hittable.h
 E:/RayTracing/hittable.h
+texture.h
+E:/RayTracing/texture.h
 
 E:/RayTracing/math_utils.h
 cmath
@@ -37,6 +55,10 @@ memory
 -
 cstdlib
 -
+
+E:/RayTracing/moving_sphere.h
+hittable.h
+E:/RayTracing/hittable.h
 
 E:/RayTracing/ray.h
 vec3.h
@@ -61,6 +83,12 @@ camera.h
 E:/RayTracing/camera.h
 material.h
 E:/RayTracing/material.h
+moving_sphere.h
+E:/RayTracing/moving_sphere.h
+aarect.h
+E:/RayTracing/aarect.h
+box.h
+E:/RayTracing/box.h
 omp.h
 -
 
@@ -121,6 +149,10 @@ math.h
 -
 assert.h
 -
+
+E:/RayTracing/texture.h
+vec3.h
+E:/RayTracing/vec3.h
 
 E:/RayTracing/vec3.h
 cmath

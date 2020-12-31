@@ -82,6 +82,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="E:/RayTracing/aabb.h">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="E:/RayTracing/aarect.h">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="E:/RayTracing/box.h">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="E:/RayTracing/bvh.h">
+			<Option target="RayTracing"/>
+		</Unit>
 		<Unit filename="E:/RayTracing/camera.h">
 			<Option target="RayTracing"/>
 		</Unit>
@@ -97,6 +109,9 @@
 		<Unit filename="E:/RayTracing/math_utils.h">
 			<Option target="RayTracing"/>
 		</Unit>
+		<Unit filename="E:/RayTracing/moving_sphere.h">
+			<Option target="RayTracing"/>
+		</Unit>
 		<Unit filename="E:/RayTracing/ray.h">
 			<Option target="RayTracing"/>
 		</Unit>
@@ -107,6 +122,9 @@
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="E:/RayTracing/sphere.h">
+			<Option target="RayTracing"/>
+		</Unit>
+		<Unit filename="E:/RayTracing/texture.h">
 			<Option target="RayTracing"/>
 		</Unit>
 		<Unit filename="E:/RayTracing/vec3.h">
