@@ -6,6 +6,7 @@ CMakeFiles/RayTracing.dir/rayt.cpp.obj
  E:/RayTracing/aarect.h
  E:/RayTracing/box.h
  E:/RayTracing/camera.h
+ E:/RayTracing/constant_medium.h
  E:/RayTracing/hittable.h
  E:/RayTracing/hittable_list.h
  E:/RayTracing/material.h

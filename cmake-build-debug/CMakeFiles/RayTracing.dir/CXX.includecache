@@ -26,6 +26,14 @@ E:/RayTracing/vec3.h
 ray.h
 E:/RayTracing/ray.h
 
+E:/RayTracing/constant_medium.h
+hittable.h
+E:/RayTracing/hittable.h
+material.h
+E:/RayTracing/material.h
+texture.h
+E:/RayTracing/texture.h
+
 E:/RayTracing/hittable.h
 ray.h
 E:/RayTracing/ray.h
@@ -91,6 +99,8 @@ box.h
 E:/RayTracing/box.h
 omp.h
 -
+constant_medium.h
+E:/RayTracing/constant_medium.h
 
 E:/RayTracing/rayt.h
 stb_image.h

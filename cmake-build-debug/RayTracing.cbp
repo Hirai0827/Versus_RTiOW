@@ -97,6 +97,9 @@
 		<Unit filename="E:/RayTracing/camera.h">
 			<Option target="RayTracing"/>
 		</Unit>
+		<Unit filename="E:/RayTracing/constant_medium.h">
+			<Option target="RayTracing"/>
+		</Unit>
 		<Unit filename="E:/RayTracing/hittable.h">
 			<Option target="RayTracing"/>
 		</Unit>

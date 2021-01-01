@@ -5,6 +5,7 @@ CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../aabb.h
 CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../aarect.h
 CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../box.h
 CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../camera.h
+CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../constant_medium.h
 CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../hittable.h
 CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../hittable_list.h
 CMakeFiles/RayTracing.dir/rayt.cpp.obj: ../material.h
